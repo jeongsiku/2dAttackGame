@@ -1,0 +1,13 @@
+STAGEIDX,CLASSTYPE,ATTACKTYPE,NAME,LEVEL,ATTACKPOWER,ATTACKINTERVAL,HEALTHPOWER,TACTICPOINT,FACEIMAGE,PREFAB,COST
+2001,Knight,Melee,서황,1,10,0.32,100,100,SeoHwang_icon,SeoHwang,100
+2002,Knight,Melee,장비,1,10,0.31,100,100,JangBi_icon,JangBi,200
+2003,Knight,Melee,감녕,1,10,0.3,100,100,GamNyung_icon,GamNyung,300
+2004,Archer,Arrow,장료,1,20,0.27,100,100,JangRyo_icon,JangRyo,150
+2005,Archer,Arrow,황충,1,20,0.26,100,100,HwangChung_icon,HwangChung,250
+2006,Archer,Arrow,태사자,1,20,0.25,100,100,TaesaJa_icon,TaesaJa,350
+2007,Tactician,Magic,사마의,1,5,0.22,100,200,SamaUi_icon,SamaUi,230
+2008,Tactician,Magic,제갈량,1,5,0.21,100,200,JaegalRyang_icon,JaegalRyang,330
+2009,Tactician,Magic,주유,1,5,0.2,100,200,JooYoo_icon,JooYoo,430
+2010,Assassin,Melee,등애,1,10,0.42,100,100,DeungAe_icon,DeungAe,270
+2011,Assassin,Melee,강유,1,10,0.41,100,100,GangYoo_icon,GangYoo,370
+2012,Assassin,Melee,육손,1,10,0.4,100,100,YookSon_icon,YookSon,470

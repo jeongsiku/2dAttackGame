@@ -1,0 +1,11 @@
+STAGEIDX,NAME,LEVEL,ATTACKPOWER,ATTACKINTERVAL,HEALTHPOWER,TACTICPOINT,FACEIMAGE,PREFAB
+3001,고블린,1,7,0.5,100,100,icon_Goblin,mon_Goblin
+3002,고블린킹,1,20,0.4,400,100,icon_GoblinKing,mon_GoblinKing
+3003,골렘,1,40,0.4,1000,100,icon_Golem,mon_golem
+3004,엔트,1,70,0.5,700,100,icon_ent,mon_ent
+3005,촌촌,1,100,0.8,1300,100,icon_chonchon,mon_chonchon
+3006,크룰러,1,150,1,2000,100,icon_CarionCrawler,mon_CarionCrawler
+3007,브루,1,200,0.8,3800,200,icon_broo,mon_broo
+3008,베히모스,1,250,0.7,7000,200,icon_Behemoth,mon_behemoth
+3009,바실리스크,1,300,0.8,12000,200,icon_Basilisk,mon_Basilisk
+3010,발록,1,400,1,20000,100,icon_balog,mon_balog
